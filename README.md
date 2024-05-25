@@ -527,11 +527,9 @@ P10	User Interface and Accessibility	Designing a user-friendly interface that ac
 Table III. A Sample Complex Engineering Problem Activities
 
 Attributes	Addressing the complex engineering activities (A) in the project
-A1	 
-AI and Pathfinding	Developing realistic zombie behavior and pathfinding algorithms for NPCs in a dynamic, open-world environment.
+A1	 AI and Pathfinding	Developing realistic zombie behavior and pathfinding algorithms for NPCs in a dynamic, open-world environment.
 A2	 Scalability and Optimization	Adapting game performance based on player hardware to ensure smooth gameplay across different platforms.
-A3	 Security and Online Gameplay	 
-Implementing secure online gameplay, including anti-cheat measures, server stability, and player data protection.
+A3	 Security and Online Gameplay	Implementing secure online gameplay, including anti-cheat measures, server stability, and player data protection.
 A4	Realistic Simulation and Physics	Designing realistic character movement, environmental interactions, and destruction, emphasizing physics accuracy.
 A5	Narrative Branching and Consequences	Creating a branching narrative with player choices and consequences that impact the game's storyline and outcomes.
 
